@@ -8,15 +8,15 @@ This project was developed as part of the **Future AWS AI Scientist Nanodegree**
 
 - [Project Overview](#project-overview)
 - [Key Features](#key-features)
+- [Data Loading and Preprocessing](#data-loading-and-preprocessing)
 - [Implementation Details](#implementation-details)
-  - [Data Loading and Preprocessing](#data-loading-and-preprocessing)
+  - [Data Loading and Preprocessing](#data-loading-and-preprocessing-1)
   - [Custom PyTorch Dataset](#custom-pytorch-dataset)
   - [Transformer Model Architecture](#transformer-model-architecture)
 - [Performance and Results](#performance-and-results)
 - [Requirements](#requirements)
 - [Suggestions for Future Work](#suggestions-for-future-work)
 - [License](#license)
-
 
 ---
 
@@ -39,6 +39,18 @@ The primary objective of this project is to build and train a sentiment classifi
 - **Clean modular design**, separating data preprocessing, model building, training, and evaluation stages.
 - **Accuracy function** and evaluation metrics implemented for binary classification.
 - **Optional inference support** for testing on new data using model prediction cells.
+
+---
+
+### Data Loading and Preprocessing
+
+- Dataset: IMDB Movie Reviews  
+- Dataset download: The IMDB dataset can be downloaded from [here](http://ai.stanford.edu/~amaas/data/sentiment/aclImdb_v1.tar.gz)  
+- To download the dataset directly in a Jupyter Notebook or a Linux environment, run:
+
+  ```bash
+  wget http://ai.stanford.edu/~amaas/data/sentiment/aclImdb_v1.tar.gz
+  ```
 
 ---
 
