@@ -46,7 +46,7 @@ The primary objective of this project is to build and train a sentiment classifi
 
 - Dataset: IMDB Movie Reviews  
 - Dataset download: The IMDB dataset can be downloaded from [here](http://ai.stanford.edu/~amaas/data/sentiment/aclImdb_v1.tar.gz)  
-- To download the dataset directly in a Jupyter Notebook or a Linux environment, run:
+- To download the dataset directly in a Jupyter Notebook, run:
 
   ```bash
   !wget http://ai.stanford.edu/~amaas/data/sentiment/aclImdb_v1.tar.gz
