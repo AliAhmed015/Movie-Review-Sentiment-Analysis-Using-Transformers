@@ -49,7 +49,7 @@ The primary objective of this project is to build and train a sentiment classifi
 - To download the dataset directly in a Jupyter Notebook or a Linux environment, run:
 
   ```bash
-  wget http://ai.stanford.edu/~amaas/data/sentiment/aclImdb_v1.tar.gz
+  !wget http://ai.stanford.edu/~amaas/data/sentiment/aclImdb_v1.tar.gz
   ```
 
 ---
