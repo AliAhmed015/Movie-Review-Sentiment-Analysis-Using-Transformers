@@ -105,7 +105,7 @@ pip install torch torchvision numpy matplotlib pandas
 
 ---
 
-# Suggestions for Future Work
+## Suggestions for Future Work
 
 Based on project feedback, the following enhancements could further improve the model's performance and functionality:
 
@@ -119,6 +119,6 @@ Based on project feedback, the following enhancements could further improve the 
 
 ---
 
-# License
+## License
 
 This project is licensed under the MIT License.
